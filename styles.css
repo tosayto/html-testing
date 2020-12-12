@@ -9,6 +9,6 @@
   font-size: 3rem;
 }
 .banner {
-  background: red;
+  background: green;
   height: calc(100vh - 100px);
 }
